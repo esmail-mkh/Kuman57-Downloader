@@ -1,6 +1,6 @@
  # Kuman57 (kumw6.com) Downloader
 
-A python script for download manhua from Kuman57
+You can Download Manhua's With this Script!
 
 [Kuman57](https://kumw6.com) - This Address May change in future.
 
