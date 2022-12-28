@@ -1,5 +1,6 @@
  # Kuman57 (kumw6.com) Downloader
 
+شما میتوانید با این اسکریپت مانها دانلود کنید!
 You can Download Manhua's With this Script!
 
 [Kuman57](https://kumw6.com) - This Address May change in future.
