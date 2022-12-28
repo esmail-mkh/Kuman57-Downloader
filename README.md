@@ -33,4 +33,7 @@ In this section, it is enough to give the chapter link to the program and press 
 http://www.kumw6.com/xxxx/xxxxxxx.html
 ```
 
+Your download will be saved in a folder called downloads in the script location.
+
+
 #### You can support us by giving stars.
